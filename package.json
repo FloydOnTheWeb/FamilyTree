@@ -12,8 +12,9 @@
     "d3": "4",
     "d3-dtree": "^2.4.1",
     "lodash": "4",
-    "vue": "^3.0.0-0",
-    "vue-lodash": "^2.1.2"
+    "vue": "^2.6.12",
+    "vue-lodash": "^2.1.2",
+    "vue-template-compiler": "^2.6.12"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
